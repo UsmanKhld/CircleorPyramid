@@ -1,1 +1,1 @@
-Calculate stuff dependant on circle or pyramid
+# Calculate stuff dependant on circle or pyramid
